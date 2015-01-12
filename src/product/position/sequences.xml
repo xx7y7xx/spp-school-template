@@ -1,0 +1,2846 @@
+<sequences>
+	<sequence name = "Camera003_Animation">
+		<start name = "Camera003_Animation">
+		<move x="1.70884" y="6.14624" z="-82.8725" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0785461</rotx>
+			<rotz>0.0</rotz>
+			<roty>2.19033</roty>
+		</rotate>
+		</start>
+		<move mesh="Camera003" duration="200" x="3.14279" y="2.97438" z="-10.7864" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0205205</rotx>
+			<rotz>0.0287621</rotz>
+			<roty>0.0296545</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="3.18345" y="2.93465" z="-10.7299" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0195183</rotx>
+			<rotz>0.0256951</rotz>
+			<roty>0.0247021</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="3.26476" y="2.85519" z="-10.617" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0184935</rotx>
+			<rotz>0.0231257</rotz>
+			<roty>0.0177292</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="3.38673" y="2.73601" z="-10.4475" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0175678</rotx>
+			<rotz>0.0211784</rotz>
+			<roty>0.00902728</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="3.54936" y="2.5771" z="-10.2216" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0168188</rotx>
+			<rotz>0.0198999</rotz>
+			<roty>-0.00134381</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="3.75264" y="2.37846" z="-9.93927" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0162605</rotx>
+			<rotz>0.0192855</rotz>
+			<roty>-0.0135755</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="3.99659" y="2.1401" z="-9.60042" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0158211</rotx>
+			<rotz>0.0192836</rotz>
+			<roty>-0.0281142</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="4.28119" y="1.86201" z="-9.20509" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0153113</rotx>
+			<rotz>0.0197642</rotz>
+			<roty>-0.0456619</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="4.60644" y="1.54418" z="-8.75327" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0143768</rotx>
+			<rotz>0.0204127</rotz>
+			<roty>-0.0671066</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="4.97235" y="1.18663" z="-8.245" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0124798</rotx>
+			<rotz>0.0205093</rotz>
+			<roty>-0.0932579</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="5.3996" y="0.72393" z="-7.81839" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00867093</rotx>
+			<rotz>0.0177916</rotz>
+			<roty>-0.129628</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="6.01468" y="-0.272999" z="-8.42468" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.000295051</rotx>
+			<rotz>0.000878873</rotz>
+			<roty>-0.206627</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="6.58985" y="-1.1383" z="-8.74469" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00309691</rotx>
+			<rotz>-0.026283</rotz>
+			<roty>-0.245772</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="7.07047" y="-1.70441" z="-8.43312" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00571769</rotx>
+			<rotz>-0.0442322</rotz>
+			<roty>-0.225881</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="7.4565" y="-1.97136" z="-7.49001" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0157925</rotx>
+			<rotz>-0.042642</rotz>
+			<roty>-0.177524</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="7.74799" y="-1.93912" z="-5.91528" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0183134</rotx>
+			<rotz>-0.0310774</rotz>
+			<roty>-0.131298</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="7.94491" y="-1.60771" z="-3.70901" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0148013</rotx>
+			<rotz>-0.0189147</rotz>
+			<roty>-0.0972134</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="8.04726" y="-0.977121" z="-0.871201" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00836629</rotx>
+			<rotz>-0.0087797</rotz>
+			<roty>-0.074529</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="8.05508" y="-0.0473576" z="2.59818" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.000168896</rotx>
+			<rotz>-0.000152641</rotz>
+			<roty>-0.0605498</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="8.59299" y="1.26542" z="6.94284" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0126597</rotx>
+			<rotz>0.0101203</rotz>
+			<roty>-0.0526178</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="10.0091" y="2.63396" z="11.5486" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0312055</rotx>
+			<rotz>0.022352</rotz>
+			<roty>-0.0523492</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="10.7889" y="3.54109" z="15.1953" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.050407</rotx>
+			<rotz>0.0322154</rotz>
+			<roty>-0.0631539</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="10.8895" y="3.97641" z="17.8568" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0696371</rotx>
+			<rotz>0.0384518</rotz>
+			<roty>-0.0860785</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="10.3108" y="3.93995" z="19.5333" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.081994</rotx>
+			<rotz>0.036328</rotz>
+			<roty>-0.121571</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="9.05295" y="3.43168" z="20.2246" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.071514</rotx>
+			<rotz>0.0216762</rotz>
+			<roty>-0.159329</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="7.11578" y="2.45162" z="19.9308" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.025535</rotx>
+			<rotz>0.00345435</rotz>
+			<roty>-0.167425</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="4.49945" y="0.999771" z="18.6519" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0393745</rotx>
+			<rotz>0.00129916</rotz>
+			<roty>-0.120034</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.0230865" y="-1.57703" z="17.8823" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.117206</rotx>
+			<rotz>0.0180305</rotz>
+			<roty>-0.0331065</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-5.85236" y="-4.82897" z="19.1994" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.152326</rotx>
+			<rotz>0.0283962</rotz>
+			<roty>0.026602</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-9.3253" y="-6.48952" z="19.605" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.112167</rotx>
+			<rotz>0.0176347</rotz>
+			<roty>0.0320342</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-10.3008" y="-6.50373" z="19.0057" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0684779</rotx>
+			<rotz>0.00847646</rotz>
+			<roty>0.0212886</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-8.7787" y="-4.87162" z="17.4015" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0359351</rotx>
+			<rotz>0.0036656</rotz>
+			<roty>0.00760624</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-4.87541" y="-1.68302" z="14.8567" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00943731</rotx>
+			<rotz>0.000889759</rotz>
+			<roty>-0.00884455</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.9178" y="-0.211493" z="13.6728" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.000429145</rotx>
+			<rotz>-4.4292e-005</rotz>
+			<roty>-0.0156478</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.58865" y="-0.0152512" z="13.4297" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00192927</rotx>
+			<rotz>-0.00022968</rotz>
+			<roty>-0.0161612</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.29971" y="0.165916" z="13.2096" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00337962</rotx>
+			<rotz>-0.000457848</rotz>
+			<roty>-0.0169602</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.05102" y="0.332005" z="13.0126" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00480622</rotx>
+			<rotz>-0.000734318</rotz>
+			<roty>-0.0180746</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.84246" y="0.483017" z="12.8386" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00623384</rotx>
+			<rotz>-0.00106806</rotz>
+			<roty>-0.0195473</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.67413" y="0.618952" z="12.6875" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00768657</rotx>
+			<rotz>-0.00147213</rotz>
+			<roty>-0.0214369</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.546" y="0.739803" z="12.5595" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00918792</rotx>
+			<rotz>-0.00196466</rotz>
+			<roty>-0.0238216</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.45805" y="0.845577" z="12.4546" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0107605</rotx>
+			<rotz>-0.00257027</rotz>
+			<roty>-0.0268053</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.41033" y="0.936279" z="12.3726" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0124243</rotx>
+			<rotz>-0.00332186</rotz>
+			<roty>-0.0305242</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.40277" y="1.0119" z="12.3136" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.014193</rotx>
+			<rotz>-0.00426256</rotz>
+			<roty>-0.0351561</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.43544" y="1.07244" z="12.2777" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0160672</rotx>
+			<rotz>-0.00544742</rotz>
+			<roty>-0.040931</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.50829" y="1.11791" z="12.2647" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0180201</rotx>
+			<rotz>-0.00694289</rotz>
+			<roty>-0.048142</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.62134" y="1.14829" z="12.2748" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0199737</rotx>
+			<rotz>-0.00881993</rotz>
+			<roty>-0.0571487</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.77459" y="1.1636" z="12.3079" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0217594</rotx>
+			<rotz>-0.0111318</rotz>
+			<roty>-0.0683647</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.96804" y="1.16384" z="12.364" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0230619</rotx>
+			<rotz>-0.0138584</rotz>
+			<roty>-0.0821931</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.20168" y="1.14898" z="12.4431" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0233648</rotx>
+			<rotz>-0.0167903</rotz>
+			<roty>-0.0988623</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.47554" y="1.11906" z="12.5453" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0219692</rotx>
+			<rotz>-0.0193371</rotz>
+			<roty>-0.118087</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.78955" y="1.07405" z="12.6704" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0182372</rotx>
+			<rotz>-0.0203314</rotz>
+			<roty>-0.138524</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-3.14383" y="1.01398" z="12.8187" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0122154</rotx>
+			<rotz>-0.0181348</rotz>
+			<roty>-0.157274</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-3.53825" y="0.938812" z="12.9898" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00535743</rotx>
+			<rotz>-0.0115118</rotz>
+			<roty>-0.170102</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-4.10595" y="0.85181" z="13.4341" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.000325676</rotx>
+			<rotz>-0.00119776</rotz>
+			<roty>-0.177482</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-6.76045" y="0.823788" z="16.9615" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00106453</rotx>
+			<rotz>0.0120646</rotz>
+			<roty>-0.229092</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-10.0073" y="0.873543" z="18.9812" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00398427</rotx>
+			<rotz>0.0280456</rotz>
+			<roty>-0.244089</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-13.1066" y="0.990189" z="17.8739" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0131004</rotx>
+			<rotz>0.0322956</rotz>
+			<roty>-0.206198</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-16.0583" y="1.17372" z="13.6397" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0164008</rotx>
+			<rotz>0.0244026</rotz>
+			<roty>-0.151043</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-18.9894" y="1.39952" z="6.58344" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0123718</rotx>
+			<rotz>0.01347</rotz>
+			<roty>-0.103166</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-23.3043" y="1.34188" z="2.08798" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00846999</rotx>
+			<rotz>0.00749875</rotz>
+			<roty>-0.0940238</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-26.6307" y="1.34087" z="-1.01712" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00541331</rotx>
+			<rotz>0.00395195</rotz>
+			<roty>-0.0944574</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-28.1421" y="1.54149" z="-4.13831" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00148751</rotx>
+			<rotz>0.000883889</rotz>
+			<roty>-0.0914811</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-27.8384" y="1.94374" z="-7.27551" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00393398</rotx>
+			<rotz>-0.00187449</rotz>
+			<roty>-0.0844836</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-25.7195" y="2.54762" z="-10.4287" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0114689</rotx>
+			<rotz>-0.00431908</rotz>
+			<roty>-0.0730044</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-22.3405" y="3.40366" z="-13.786" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0222178</rotx>
+			<rotz>-0.00656043</rotz>
+			<roty>-0.0589494</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-22.5731" y="4.69962" z="-18.4039" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.037396</rotx>
+			<rotz>-0.00867979</rotz>
+			<roty>-0.0642881</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-23.0868" y="5.65113" z="-22.0392" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0500463</rotx>
+			<rotz>-0.00826151</rotz>
+			<roty>-0.0746177</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-22.6873" y="6.10234" z="-24.1783" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0577155</rotx>
+			<rotz>-0.00513856</rotz>
+			<roty>-0.0836003</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-21.3746" y="6.05328" z="-24.8209" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0589165</rotx>
+			<rotz>-0.000300272</rotz>
+			<roty>-0.0894653</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-19.1487" y="5.50392" z="-23.9673" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0530491</rotx>
+			<rotz>0.00448452</rotz>
+			<roty>-0.089988</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-16.0095" y="4.45427" z="-21.6174" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0410751</rotx>
+			<rotz>0.00722823</rotz>
+			<roty>-0.0831756</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-11.9572" y="2.90435" z="-17.7712" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.0250524</rotx>
+			<rotz>0.00659054</rotz>
+			<roty>-0.0680215</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-7.0184" y="0.865913" z="-12.4606" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>0.00685298</rotx>
+			<rotz>0.00231069</rotz>
+			<roty>-0.0449066</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-4.5162" y="-0.178162" z="-9.72275" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00179907</rotx>
+			<rotz>-0.000698016</rotz>
+			<roty>-0.0324714</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-4.07602" y="-0.328865" z="-9.37859" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00309474</rotx>
+			<rotz>-0.00131786</rotz>
+			<roty>-0.0304275</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-3.65271" y="-0.47377" z="-9.04768" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00423492</rotx>
+			<rotz>-0.00195763</rotz>
+			<roty>-0.0284248</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-3.24643" y="-0.612877" z="-8.72998" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00523445</rotx>
+			<rotz>-0.00260268</rotz>
+			<roty>-0.0264822</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.85699" y="-0.746185" z="-8.42554" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00610835</rotx>
+			<rotz>-0.00324165</rotz>
+			<roty>-0.0246132</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.4845" y="-0.873703" z="-8.13434" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0068715</rotx>
+			<rotz>-0.00386621</rotz>
+			<roty>-0.0228285</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-2.12897" y="-0.99543" z="-7.85637" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00753757</rotx>
+			<rotz>-0.00447035</rotz>
+			<roty>-0.0211348</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.79034" y="-1.11134" z="-7.59164" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00811887</rotx>
+			<rotz>-0.00504983</rotz>
+			<roty>-0.0195364</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.46866" y="-1.22147" z="-7.34013" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00862677</rotx>
+			<rotz>-0.0056021</rotz>
+			<roty>-0.0180349</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-1.16391" y="-1.32581" z="-7.10188" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00907083</rotx>
+			<rotz>-0.00612545</rotz>
+			<roty>-0.0166314</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-0.876068" y="-1.42433" z="-6.87685" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00945926</rotx>
+			<rotz>-0.00661905</rotz>
+			<roty>-0.0153242</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-0.605225" y="-1.51708" z="-6.66506" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.00979897</rotx>
+			<rotz>-0.00708238</rotz>
+			<roty>-0.0141122</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-0.351257" y="-1.60401" z="-6.4665" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0100959</rotx>
+			<rotz>-0.00751556</rotz>
+			<roty>-0.0129928</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="-0.114197" y="-1.68517" z="-6.28119" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0103544</rotx>
+			<rotz>-0.00791856</rotz>
+			<roty>-0.0119623</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.105927" y="-1.76052" z="-6.10913" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0105785</rotx>
+			<rotz>-0.00829162</rotz>
+			<roty>-0.0110188</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.309052" y="-1.83007" z="-5.95029" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0107709</rotx>
+			<rotz>-0.00863486</rotz>
+			<roty>-0.0101589</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.4953" y="-1.89383" z="-5.80467" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0109336</rotx>
+			<rotz>-0.00894845</rotz>
+			<roty>-0.00937868</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.664612" y="-1.95178" z="-5.67231" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0110682</rotx>
+			<rotz>-0.00923227</rotz>
+			<roty>-0.00867528</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.817017" y="-2.00395" z="-5.55315" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0111758</rotx>
+			<rotz>-0.00948664</rotz>
+			<roty>-0.00804568</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="0.952423" y="-2.05032" z="-5.44729" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0112569</rotx>
+			<rotz>-0.00971133</rotz>
+			<roty>-0.0074872</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.07095" y="-2.0909" z="-5.35462" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0113116</rotx>
+			<rotz>-0.0099061</rotz>
+			<roty>-0.00699644</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.17255" y="-2.12568" z="-5.27522" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0113399</rotx>
+			<rotz>-0.0100708</rotz>
+			<roty>-0.00657085</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.2572" y="-2.15465" z="-5.20901" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0113416</rotx>
+			<rotz>-0.0102052</rotz>
+			<roty>-0.00620796</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.32489" y="-2.17785" z="-5.15608" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0113163</rotx>
+			<rotz>-0.0103091</rotz>
+			<roty>-0.00590564</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.37573" y="-2.19522" z="-5.11636" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0112634</rotx>
+			<rotz>-0.0103821</rotz>
+			<roty>-0.00566062</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.40955" y="-2.20683" z="-5.08992" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0111828</rotx>
+			<rotz>-0.0104242</rotz>
+			<roty>-0.00547207</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera003" duration="200" x="1.42651" y="-2.21261" z="-5.07662" />
+		<rotate mesh="Camera003" duration="200">
+			<rotx>-0.0110735</rotx>
+			<rotz>-0.0104349</rotz>
+			<roty>-0.00533671</roty>
+		</rotate>
+		<delay time="200"/>
+	</sequence>
+
+	<sequence name = "Camera001_Animation">
+		<start name = "Camera001_Animation">
+		<move x="112.714" y="111.196" z="-526.385" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.355027</rotx>
+			<rotz>0.0</rotz>
+			<roty>0.0583937</roty>
+		</rotate>
+		</start>
+		<move mesh="Camera001" duration="200" x="26.658" y="-0.7873" z="27.5889" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.000951659</rotx>
+			<rotz>5.56329e-005</rotz>
+			<roty>-0.0495957</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="26.4783" y="-0.766495" z="27.6837" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00027927</rotx>
+			<rotz>2.4573e-006</rotz>
+			<roty>-0.0546105</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="26.1189" y="-0.724876" z="27.8732" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.000476069</rotx>
+			<rotz>2.18261e-005</rotz>
+			<roty>-0.0598644</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="25.5799" y="-0.662453" z="28.1573" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.001312</rotx>
+			<rotz>0.000139166</rotz>
+			<roty>-0.0653317</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="24.8612" y="-0.579208" z="28.5363" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0022159</rotx>
+			<rotz>0.000382678</rotz>
+			<roty>-0.0709717</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="23.9628" y="-0.475182" z="29.0099" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00316234</rotx>
+			<rotz>0.000780499</rotz>
+			<roty>-0.0767293</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="22.8848" y="-0.350311" z="29.5783" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00411023</rotx>
+			<rotz>0.0013562</rotz>
+			<roty>-0.0825314</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="21.6271" y="-0.204651" z="30.2414" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00500225</rotx>
+			<rotz>0.0021222</rotz>
+			<roty>-0.0882926</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="20.1897" y="-0.0381775" z="30.9992" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00576649</rotx>
+			<rotz>0.00307222</rotz>
+			<roty>-0.0939145</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="18.5726" y="0.149086" z="31.8518" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00632382</rotx>
+			<rotz>0.00417418</rotz>
+			<roty>-0.0992944</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="16.7758" y="0.357185" z="32.7991" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00659855</rotx>
+			<rotz>0.00536556</rotz>
+			<roty>-0.104331</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="14.7995" y="0.586082" z="33.8412" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00653351</rotx>
+			<rotz>0.00655465</rotz>
+			<roty>-0.108933</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="12.6433" y="0.835785" z="34.9779" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0061043</rotx>
+			<rotz>0.0076283</rotz>
+			<roty>-0.113018</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="10.3076" y="1.1063" z="36.2094" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00533154</rotx>
+			<rotz>0.00846855</rotz>
+			<roty>-0.116524</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="7.79218" y="1.39763" z="37.5357" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00428256</rotx>
+			<rotz>0.00897124</rotz>
+			<roty>-0.119395</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="4.95251" y="1.78674" z="40.8802" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00327755</rotx>
+			<rotz>0.00969515</rotz>
+			<roty>-0.125946</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="1.8656" y="2.26784" z="46.2981" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00230355</rotx>
+			<rotz>0.0113598</rotz>
+			<roty>-0.13579</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-1.16589" y="2.70277" z="50.4675" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.000826667</rotx>
+			<rotz>0.0128416</rotz>
+			<roty>-0.140206</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-4.13965" y="3.09045" z="53.3624" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00101925</rotx>
+			<rotz>0.0133989</rotz>
+			<roty>-0.138737</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-7.05579" y="3.43087" z="54.9828" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00274781</rotx>
+			<rotz>0.0126027</rotz>
+			<roty>-0.132237</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-9.91422" y="3.72406" z="55.3287" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00380786</rotx>
+			<rotz>0.0105319</rotz>
+			<roty>-0.122431</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-12.715" y="3.97002" z="54.4001" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00386995</rotx>
+			<rotz>0.00763028</rotz>
+			<roty>-0.111213</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-15.4581" y="4.16869" z="52.1971" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00289243</rotx>
+			<rotz>0.00440901</rotz>
+			<roty>-0.100104</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-18.1435" y="4.32014" z="48.7196" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00100735</rotx>
+			<rotz>0.00124391</rotz>
+			<roty>-0.0900803</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-20.7712" y="4.42433" z="43.9675" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00162049</rotx>
+			<rotz>-0.00166854</rotz>
+			<roty>-0.0816527</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-23.3414" y="4.48129" z="37.941" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00488188</rotx>
+			<rotz>-0.00426752</rotz>
+			<roty>-0.0750387</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-25.8538" y="4.491" z="30.6401" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00875674</rotx>
+			<rotz>-0.00656469</rotz>
+			<roty>-0.0703112</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-32.7224" y="5.03336" z="24.2473" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0158438</rotx>
+			<rotz>-0.010221</rotz>
+			<roty>-0.0857936</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-42.3338" y="5.94496" z="19.5988" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0237517</rotx>
+			<rotz>-0.0125784</rotz>
+			<roty>-0.10875</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-49.4673" y="6.56415" z="14.9297" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0282584</rotx>
+			<rotz>-0.0112256</rotz>
+			<roty>-0.122208</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-54.123" y="6.8909" z="10.2401" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0290882</rotx>
+			<rotz>-0.00760697</rotz>
+			<roty>-0.125534</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-56.3009" y="6.92523" z="5.52991" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0270746</rotx>
+			<rotz>-0.00354417</rotz>
+			<roty>-0.119144</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-56.0009" y="6.66718" z="0.799133" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0239381</rotx>
+			<rotz>-0.000263009</rotz>
+			<roty>-0.105175</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-53.223" y="6.11668" z="-3.95215" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0213321</rotx>
+			<rotz>0.00201508</rotz>
+			<roty>-0.0864096</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-47.9674" y="5.27377" z="-8.72412" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0202592</rotx>
+			<rotz>0.00369839</rotz>
+			<roty>-0.0649427</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-40.2339" y="4.13847" z="-13.5166" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0211716</rotx>
+			<rotz>0.00530381</rotz>
+			<roty>-0.0414037</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-30.0225" y="2.71072" z="-18.3295" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.024354</rotx>
+			<rotz>0.00718273</rotz>
+			<roty>-0.0146211</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-20.6109" y="1.3922" z="-22.562" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0289657</rotx>
+			<rotz>0.00900196</rotz>
+			<roty>0.00667392</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-19.4028" y="1.09224" z="-24.9691" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.029539</rotx>
+			<rotz>0.00896019</rotz>
+			<roty>0.000348731</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-18.7383" y="0.874084" z="-27.0738" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0233867</rotx>
+			<rotz>0.00708215</rotz>
+			<roty>0.00160725</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-18.0523" y="0.66864" z="-28.9834" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0177881</rotx>
+			<rotz>0.00535417</rotz>
+			<roty>-0.000409311</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-17.3448" y="0.475983" z="-30.6979" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0139965</rotx>
+			<rotz>0.00421854</rotz>
+			<roty>-0.0068246</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-16.6159" y="0.295929" z="-32.2171" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0124</rotx>
+			<rotz>0.0038295</rotz>
+			<roty>-0.0177948</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-15.8654" y="0.128601" z="-33.5413" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0130082</rotx>
+			<rotz>0.00427195</rotz>
+			<roty>-0.0339473</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-15.0935" y="-0.0260315" z="-34.6703" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0154584</rotx>
+			<rotz>0.00566413</rotz>
+			<roty>-0.0570087</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-14.3" y="-0.167953" z="-35.6041" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0166813</rotx>
+			<rotz>0.00721413</rotz>
+			<roty>-0.0794702</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-13.4851" y="-0.297195" z="-36.3429" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0133442</rotx>
+			<rotz>0.00707641</rotz>
+			<roty>-0.0851899</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-12.6487" y="-0.413712" z="-36.8865" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00958767</rotx>
+			<rotz>0.00618252</rotz>
+			<roty>-0.0898548</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-11.7908" y="-0.517563" z="-37.2348" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.0057344</rotx>
+			<rotz>0.00447418</rotz>
+			<roty>-0.0937403</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-10.9113" y="-0.608704" z="-37.388" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00204371</rotx>
+			<rotz>0.00192814</rotz>
+			<roty>-0.0965421</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-10.0105" y="-0.687149" z="-37.3462" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0011923</rotx>
+			<rotz>-0.00136505</rotz>
+			<roty>-0.0980084</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-9.0881" y="-0.752884" z="-37.1092" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00370454</rotx>
+			<rotz>-0.00518967</rotz>
+			<roty>-0.0979932</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-8.14423" y="-0.805939" z="-36.6769" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00530785</rotx>
+			<rotz>-0.0092281</rotz>
+			<roty>-0.0964885</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-7.17886" y="-0.846283" z="-36.0497" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00594386</rotx>
+			<rotz>-0.0131151</rotz>
+			<roty>-0.0936278</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-6.19199" y="-0.873947" z="-35.2272" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00569065</rotx>
+			<rotz>-0.0165095</rotz>
+			<roty>-0.0896544</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-5.18365" y="-0.888901" z="-34.2095" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00473422</rotx>
+			<rotz>-0.0191526</rotz>
+			<roty>-0.0848756</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-4.15381" y="-0.891129" z="-32.9966" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00331919</rotx>
+			<rotz>-0.0209009</rotz>
+			<roty>-0.0796084</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-3.10248" y="-0.880722" z="-31.5888" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00169612</rotx>
+			<rotz>-0.0217272</rotz>
+			<roty>-0.0741408</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-2.0296" y="-0.857559" z="-29.9857" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-8.18454e-005</rotx>
+			<rotz>-0.0216957</rotz>
+			<roty>-0.0687024</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-0.935333" y="-0.821747" z="-28.1876" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00136111</rotx>
+			<rotz>-0.0209303</rotz>
+			<roty>-0.0634611</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="0.180511" y="-0.773209" z="-26.194" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00252832</rotx>
+			<rotz>-0.0195794</rotz>
+			<roty>-0.0585236</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="1.31775" y="-0.711975" z="-24.0056" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00337348</rotx>
+			<rotz>-0.0178319</rotz>
+			<roty>-0.0536388</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="2.61789" y="-0.647141" z="-21.6631" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00393411</rotx>
+			<rotz>-0.0160316</rotz>
+			<roty>-0.044557</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="6.04752" y="-0.713593" z="-19.8324" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00339412</rotx>
+			<rotz>-0.0115754</rotz>
+			<roty>-0.0398724</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="9.87271" y="-0.817673" z="-18.2229" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00240184</rotx>
+			<rotz>-0.00712564</rotz>
+			<roty>-0.0382589</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="13.2892" y="-0.90979" z="-16.6282" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00133007</rotx>
+			<rotz>-0.00349785</rotz>
+			<roty>-0.037635</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="16.2969" y="-0.990021" z="-15.0481" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.000213148</rotx>
+			<rotz>-0.000502722</rotz>
+			<roty>-0.0377689</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="18.8959" y="-1.05832" z="-13.4827" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.000931047</rotx>
+			<rotz>0.00198393</rotz>
+			<roty>-0.038506</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="21.086" y="-1.1147" z="-11.9319" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00208806</rotx>
+			<rotz>0.0040375</rotz>
+			<roty>-0.0397305</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="22.8673" y="-1.15913" z="-10.3959" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00324029</rotx>
+			<rotz>0.00569857</rotz>
+			<roty>-0.0413464</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="24.2399" y="-1.19171" z="-8.87448" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00436142</rotx>
+			<rotz>0.00698164</rotz>
+			<roty>-0.0432585</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="25.2037" y="-1.21228" z="-7.36786" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00541296</rotx>
+			<rotz>0.007884</rotz>
+			<roty>-0.045362</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="25.7587" y="-1.22101" z="-5.87576" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00634219</rotx>
+			<rotz>0.00839413</rotz>
+			<roty>-0.0475274</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="25.905" y="-1.21777" z="-4.39847" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00708298</rotx>
+			<rotz>0.00850196</rotz>
+			<roty>-0.049595</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="25.6425" y="-1.20264" z="-2.93579" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00755916</rotx>
+			<rotz>0.0082087</rotz>
+			<roty>-0.051366</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="24.9712" y="-1.17557" z="-1.48779" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0076937</rotx>
+			<rotz>0.00753801</rotz>
+			<roty>-0.0526049</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="23.8912" y="-1.13658" z="-0.0545044" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00742039</rotx>
+			<rotz>0.00654162</rotz>
+			<roty>-0.0530485</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="22.4023" y="-1.08566" z="1.36414" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00669883</rotx>
+			<rotz>0.00530139</rotz>
+			<roty>-0.0524206</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="20.5046" y="-1.02284" z="2.7681" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00552552</rotx>
+			<rotz>0.00392012</rotz>
+			<roty>-0.0504617</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="18.1982" y="-0.94809" z="4.15735" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00393805</rotx>
+			<rotz>0.00250514</rotz>
+			<roty>-0.046956</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="15.4831" y="-0.86142" z="5.53195" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00200633</rotx>
+			<rotz>0.00114769</rotz>
+			<roty>-0.0417562</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="12.4008" y="-0.763947" z="6.91238" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00046122</rotx>
+			<rotz>-0.000238863</rotz>
+			<roty>-0.0340724</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="10.4002" y="-0.695007" z="8.92719" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.00125766</rotx>
+			<rotz>-0.000597885</rotz>
+			<roty>-0.0279894</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="9.09097" y="-0.645248" z="11.1518" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.000772852</rotx>
+			<rotz>-0.000341237</rotz>
+			<roty>-0.024321</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="7.85877" y="-0.59845" z="13.2455" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>0.000195112</rotx>
+			<rotz>-8.05462e-005</rotz>
+			<roty>-0.0209685</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="6.70359" y="-0.554565" z="15.2083" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.000459022</rotx>
+			<rotz>0.000178315</rotz>
+			<roty>-0.0178919</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="5.62541" y="-0.513596" z="17.0403" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00117743</rotx>
+			<rotz>0.000433272</rotz>
+			<roty>-0.0150531</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="4.62424" y="-0.475555" z="18.7414" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00195199</rotx>
+			<rotz>0.000685127</rotz>
+			<roty>-0.0124168</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="3.70009" y="-0.44046" z="20.3118" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00277883</rotx>
+			<rotz>0.000936746</rotz>
+			<roty>-0.00995004</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="2.85295" y="-0.408295" z="21.7512" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00365559</rotx>
+			<rotz>0.00119193</rotz>
+			<roty>-0.00762383</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="2.08283" y="-0.378998" z="23.0597" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00458349</rotx>
+			<rotz>0.00145589</rotz>
+			<roty>-0.00541173</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="1.38972" y="-0.352692" z="24.2375" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0055646</rotx>
+			<rotz>0.00173443</rotz>
+			<roty>-0.00328946</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="0.773607" y="-0.329269" z="25.2843" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00660265</rotx>
+			<rotz>0.00203411</rotz>
+			<roty>-0.00123659</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="0.234529" y="-0.308807" z="26.2003" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00770249</rotx>
+			<rotz>0.00236247</rotz>
+			<roty>0.000765218</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-0.227547" y="-0.291245" z="26.9855" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.00887056</rotx>
+			<rotz>0.00272805</rotz>
+			<roty>0.00273181</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-0.61262" y="-0.276611" z="27.6397" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0101127</rotx>
+			<rotz>0.00314019</rotz>
+			<roty>0.00467538</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-0.920657" y="-0.264923" z="28.1632" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0114366</rotx>
+			<rotz>0.00360976</rotz>
+			<roty>0.006605</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-1.1517" y="-0.256134" z="28.5556" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0128478</rotx>
+			<rotz>0.00414839</rotz>
+			<roty>0.0085238</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-1.30573" y="-0.25029" z="28.8175" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0143553</rotx>
+			<rotz>0.00477014</rotz>
+			<roty>0.0104307</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera001" duration="200" x="-1.38273" y="-0.24736" z="28.9483" />
+		<rotate mesh="Camera001" duration="200">
+			<rotx>-0.0159642</rotx>
+			<rotz>0.00548965</rotz>
+			<roty>0.0123139</roty>
+		</rotate>
+		<delay time="200"/>
+	</sequence>
+
+	<sequence name = "Camera002_Animation">
+		<start name = "Camera002_Animation">
+		<move x="-170.735" y="36.8118" z="315.997" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.0</rotx>
+			<rotz>0.0</rotz>
+			<roty>-2.95328</roty>
+		</rotate>
+		</start>
+		<move mesh="Camera002" duration="200" x="1.0784" y="-0.808346" z="-7.42233" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00558746</rotx>
+			<rotz>-0.00106478</rotz>
+			<roty>0.00730872</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.07516" y="-0.807049" z="-7.43674" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.0058408</rotx>
+			<rotz>-0.00115735</rotz>
+			<roty>0.00760294</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.06865" y="-0.80447" z="-7.46567" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00609742</rotx>
+			<rotz>-0.00125643</rotz>
+			<roty>0.0078504</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.05899" y="-0.800598" z="-7.50894" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00635557</rotx>
+			<rotz>-0.00136169</rotz>
+			<roty>0.00804426</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.04602" y="-0.795425" z="-7.56677" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.006613</rotx>
+			<rotz>-0.00147255</rotz>
+			<roty>0.00817546</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.02983" y="-0.788971" z="-7.63892" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00686725</rotx>
+			<rotz>-0.00158816</rotz>
+			<roty>0.00823496</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.01042" y="-0.781223" z="-7.72556" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00711535</rotx>
+			<rotz>-0.00170735</rotz>
+			<roty>0.00821249</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.987732" y="-0.772182" z="-7.82666" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00735407</rotx>
+			<rotz>-0.00182858</rotz>
+			<roty>0.00809696</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.961868" y="-0.76185" z="-7.9422" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00757968</rotx>
+			<rotz>-0.00194992</rotz>
+			<roty>0.00787661</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.932709" y="-0.750223" z="-8.07211" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00778812</rotx>
+			<rotz>-0.00206901</rotz>
+			<roty>0.00753805</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.900345" y="-0.737309" z="-8.21657" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00797492</rotx>
+			<rotz>-0.00218306</rotz>
+			<roty>0.00706858</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.864716" y="-0.723103" z="-8.37538" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00813514</rotx>
+			<rotz>-0.00228877</rotz>
+			<roty>0.00645447</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.825897" y="-0.707603" z="-8.54869" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00826363</rotx>
+			<rotz>-0.0023825</rotz>
+			<roty>0.00568245</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.783813" y="-0.690819" z="-8.73642" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00835468</rotx>
+			<rotz>-0.00246017</rotz>
+			<roty>0.00473946</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.738464" y="-0.672729" z="-8.93855" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00840225</rotx>
+			<rotz>-0.00251741</rotz>
+			<roty>0.0036131</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.689926" y="-0.653358" z="-9.15515" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00839989</rotx>
+			<rotz>-0.00254972</rotz>
+			<roty>0.00229403</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.638123" y="-0.632694" z="-9.38625" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00834064</rotx>
+			<rotz>-0.00255255</rotz>
+			<roty>0.000774106</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.583084" y="-0.610741" z="-9.63173" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00821703</rotx>
+			<rotz>-0.00252159</rotz>
+			<roty>-0.000951543</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.524826" y="-0.587494" z="-9.89165" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.0080212</rotx>
+			<rotz>-0.00245305</rotz>
+			<roty>-0.00288287</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.463303" y="-0.562952" z="-10.166" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00774476</rotx>
+			<rotz>-0.00234404</rotz>
+			<roty>-0.00501425</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.39856" y="-0.537123" z="-10.4548" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00737904</rotx>
+			<rotz>-0.00219295</rotz>
+			<roty>-0.00733396</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.330582" y="-0.509996" z="-10.758" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00691534</rotx>
+			<rotz>-0.00200001</rotz>
+			<roty>-0.00982164</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.259354" y="-0.481586" z="-11.0758" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00634545</rotx>
+			<rotz>-0.00176779</rotz>
+			<roty>-0.0124484</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.126266" y="-0.440342" z="-11.6086" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.005253</rotx>
+			<rotz>-0.0013932</rotz>
+			<roty>-0.0159371</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-0.327621" y="-0.334671" z="-13.2462" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00173877</rotx>
+			<rotz>-0.000431611</rotz>
+			<roty>-0.0233588</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-0.755844" y="-0.231777" z="-14.8075" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00173938</rotx>
+			<rotz>0.000388867</rotz>
+			<roty>-0.0295811</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.09584" y="-0.143875" z="-16.0792" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00452077</rotx>
+			<rotz>0.00087117</rotz>
+			<roty>-0.0336309</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.34773" y="-0.0709629" z="-17.0612" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00649827</rotx>
+			<rotz>0.00102694</rotz>
+			<roty>-0.0357413</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.51147" y="-0.0130444" z="-17.7535" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00768707</rotx>
+			<rotz>0.000934634</rotz>
+			<roty>-0.036362</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.58702" y="0.0298824" z="-18.1562" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00818789</rotx>
+			<rotz>0.00069457</rotz>
+			<roty>-0.0360049</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.57443" y="0.0578194" z="-18.2692" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00814135</rotx>
+			<rotz>0.000396135</rotz>
+			<roty>-0.03514</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.47368" y="0.0707588" z="-18.0925" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.0076899</rotx>
+			<rotz>0.000103648</rotz>
+			<roty>-0.0341477</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.28479" y="0.0687122" z="-17.6262" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00695416</rotx>
+			<rotz>-0.000143764</rotz>
+			<roty>-0.0333186</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.00771" y="0.051672" z="-16.8702" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00602332</rotx>
+			<rotz>-0.000325504</rotz>
+			<roty>-0.0328729</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-0.642517" y="0.0196381" z="-15.8246" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00495371</rotx>
+			<rotz>-0.000431365</rotz>
+			<roty>-0.0329938</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-0.189148" y="-0.0273857" z="-14.4892" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.0037717</rotx>
+			<rotz>-0.000454226</rotz>
+			<roty>-0.0338593</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.352417" y="-0.0894032" z="-12.8643" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00247703</rotx>
+			<rotz>-0.000383777</rotz>
+			<roty>-0.0356807</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="0.982071" y="-0.16641" z="-10.9495" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00115105</rotx>
+			<rotz>-0.000220645</rotz>
+			<roty>-0.0385656</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.49438" y="-0.223803" z="-9.21136" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000982023</rotx>
+			<rotz>-0.000227821</rotz>
+			<roty>-0.0412426</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.74071" y="-0.237135" z="-8.09792" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000827621</rotx>
+			<rotz>-0.00022834</rotz>
+			<roty>-0.0454954</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="1.98163" y="-0.2507" z="-7.09132" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000775247</rotx>
+			<rotz>-0.000252349</rotz>
+			<roty>-0.0496425</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="2.21965" y="-0.264908" z="-6.1864" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000823555</rotx>
+			<rotz>-0.000314071</rotz>
+			<roty>-0.053561</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="2.4547" y="-0.279751" z="-5.38321" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000961622</rotx>
+			<rotz>-0.000427012</rotz>
+			<roty>-0.0571203</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="2.68677" y="-0.295233" z="-4.6817" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00117242</rotx>
+			<rotz>-0.000602967</rotz>
+			<roty>-0.0601654</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="2.91594" y="-0.311357" z="-4.08191" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00143218</rotx>
+			<rotz>-0.000849137</rotz>
+			<roty>-0.0625305</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="3.14214" y="-0.328117" z="-3.58382" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00171101</rotx>
+			<rotz>-0.00116483</rotz>
+			<roty>-0.0640602</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="3.36539" y="-0.345516" z="-3.18744" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00197657</rotx>
+			<rotz>-0.00153965</rotz>
+			<roty>-0.0646292</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="3.58569" y="-0.363556" z="-2.89275" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00219871</rotx>
+			<rotz>-0.00195344</rotz>
+			<roty>-0.0641631</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="3.80305" y="-0.382235" z="-2.69978" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00235455</rotx>
+			<rotz>-0.00237898</rotz>
+			<roty>-0.0626486</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="4.01744" y="-0.40155" z="-2.60852" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00243238</rotx>
+			<rotz>-0.00278682</rotz>
+			<roty>-0.060136</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="4.2289" y="-0.421505" z="-2.61894" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00243229</rotx>
+			<rotz>-0.00315046</rotz>
+			<roty>-0.0567268</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="4.43742" y="-0.442101" z="-2.73109" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.0023646</rotx>
+			<rotz>-0.00345086</rotz>
+			<roty>-0.0525578</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="4.64296" y="-0.463333" z="-2.94493" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.0022461</rotx>
+			<rotz>-0.00367846</rotz>
+			<roty>-0.0477767</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="4.84556" y="-0.485205" z="-3.26047" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00209605</rotx>
+			<rotz>-0.00383306</rotz>
+			<roty>-0.0425226</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="5.32182" y="-0.553009" z="-3.57388" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00185976</rotx>
+			<rotz>-0.00377366</rotz>
+			<roty>-0.0433096</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="9.52906" y="-1.17773" z="-2.45299" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.0028838</rotx>
+			<rotz>-0.00655264</rotz>
+			<roty>-0.0590449</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.185" y="-1.53356" z="-1.2036" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00302041</rotx>
+			<rotz>-0.00813389</rotz>
+			<roty>-0.0449749</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="14.601" y="-1.32799" z="-0.421005" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00227839</rotx>
+			<rotz>-0.00709827</rotz>
+			<roty>-0.0394125</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.8392" y="-0.585177" z="-0.105316" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000830884</rotx>
+			<rotz>-0.00298847</rotz>
+			<roty>-0.040594</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.4071" y="-0.210516" z="-0.13324" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000186755</rotx>
+			<rotz>-0.000795503</rotz>
+			<roty>-0.0428544</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.6576" y="-0.154793" z="-0.161285" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-7.90905e-005</rotx>
+			<rotz>-0.000416333</rotz>
+			<roty>-0.0440206</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.8264" y="-0.0906515" z="-0.132217" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>5.71057e-006</rotx>
+			<rotz>3.94652e-005</rotz>
+			<roty>-0.0450679</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.9135" y="-0.0180912" z="-0.0461121" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>5.72892e-005</rotx>
+			<rotz>0.000578874</rotz>
+			<roty>-0.0459728</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.9187" y="0.0628872" z="0.0970764" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>6.37047e-005</rotx>
+			<rotz>0.00120835</rotz>
+			<roty>-0.0467118</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.8422" y="0.152283" z="0.297333" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>1.17041e-005</rotx>
+			<rotz>0.00196368</rotz>
+			<roty>-0.0467577</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.6839" y="0.250097" z="0.554642" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000122625</rotx>
+			<rotz>0.00300401</rotz>
+			<roty>-0.0451483</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.4438" y="0.356329" z="0.869019" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000360556</rotx>
+			<rotz>0.00418479</rotz>
+			<roty>-0.0469449</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="13.1219" y="0.47098" z="1.24048" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000728047</rotx>
+			<rotz>0.00544616</rotz>
+			<roty>-0.0529981</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="12.7179" y="0.595135" z="1.67076" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00126604</rotx>
+			<rotz>0.00673188</rotz>
+			<roty>-0.0635574</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="12.2227" y="0.840084" z="2.32794" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00279256</rotx>
+			<rotz>0.0109611</rotz>
+			<roty>-0.112249</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="11.761" y="1.11395" z="3.01474" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00425672</rotx>
+			<rotz>0.0112498</rotz>
+			<roty>-0.228677</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="11.3852" y="1.31825" z="3.56039" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00395501</rotx>
+			<rotz>0.00590148</rotz>
+			<roty>-0.251752</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="11.0952" y="1.45302" z="3.96481" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00120415</rotx>
+			<rotz>0.00107462</rotz>
+			<roty>-0.221368</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="10.8911" y="1.51822" z="4.22812" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.0012867</rotx>
+			<rotz>-0.000715087</rotz>
+			<roty>-0.173363</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="10.7729" y="1.51389" z="4.3502" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.002096</rotx>
+			<rotz>-0.000727033</rotz>
+			<roty>-0.130186</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="10.7405" y="1.44" z="4.33115" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00172609</rotx>
+			<rotz>-0.00035654</rotz>
+			<roty>-0.0986919</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="9.8351" y="1.1142" z="5.05804" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.00138726</rotx>
+			<rotz>-0.000146204</rotz>
+			<roty>-0.0731037</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.12971" y="-0.0564003" z="16.8586" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.0012123</rotx>
+			<rotz>-3.8684e-005</rotz>
+			<roty>-0.00529607</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.56778" y="0.0212212" z="17.4507" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>0.000311927</rotx>
+			<rotz>-8.2998e-006</rotz>
+			<roty>-0.00373254</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.62199" y="0.0331841" z="17.5798" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-3.71806e-005</rotx>
+			<rotz>8.50542e-007</rotz>
+			<roty>-0.00394249</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.66487" y="0.0412483" z="17.6734" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000335187</rotx>
+			<rotz>6.34499e-006</rotz>
+			<roty>-0.00400064</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.69646" y="0.0454063" z="17.7317" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000587143</rotx>
+			<rotz>8.76505e-006</rotz>
+			<roty>-0.00390976</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.71671" y="0.0456676" z="17.7545" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000797031</rotx>
+			<rotz>8.78156e-006</rotz>
+			<roty>-0.00366921</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.72565" y="0.0420284" z="17.7418" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000967803</rotx>
+			<rotz>7.11161e-006</rotz>
+			<roty>-0.00327439</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.72328" y="0.034483" z="17.6937" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00110154</rotx>
+			<rotz>4.4874e-006</rotz>
+			<roty>-0.00271791</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.70958" y="0.0230427" z="17.6102" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00119938</rotx>
+			<rotz>1.62612e-006</rotz>
+			<roty>-0.00198721</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.68457" y="0.00769806" z="17.4912" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00126165</rotx>
+			<rotz>-7.96605e-007</rotz>
+			<roty>-0.00106533</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.64827" y="-0.0115471" z="17.3369" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00128754</rotx>
+			<rotz>-2.18462e-006</rotz>
+			<roty>7.07206e-005</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.60062" y="-0.0346928" z="17.1471" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00127518</rotx>
+			<rotz>-2.07346e-006</rotz>
+			<roty>0.00145054</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.54167" y="-0.0617409" z="16.9218" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00122103</rotx>
+			<rotz>-2.14258e-007</rotz>
+			<roty>0.00311329</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.47142" y="-0.0926857" z="16.6612" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00111993</rotx>
+			<rotz>3.29013e-006</rotz>
+			<roty>0.00510963</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.38829" y="-0.128567" z="16.3572" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000970799</rotx>
+			<rotz>7.81263e-006</rotz>
+			<roty>0.00758538</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.25113" y="-0.198627" z="15.79" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00101077</rotx>
+			<rotz>1.58025e-005</rotz>
+			<roty>0.0131911</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-2.10677" y="-0.275692" z="15.1729" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00117098</rotx>
+			<rotz>3.37613e-005</rotz>
+			<roty>0.0206771</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.98302" y="-0.341751" z="14.644" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00133892</rotx>
+			<rotz>6.63317e-005</rotz>
+			<roty>0.0292601</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.87991" y="-0.396797" z="14.2032" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00149389</rotx>
+			<rotz>0.000117904</rotz>
+			<roty>0.0396168</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.7974" y="-0.440836" z="13.8506" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00159103</rotx>
+			<rotz>0.000189228</rotz>
+			<roty>0.0526086</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.73552" y="-0.473864" z="13.5861" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00153728</rotx>
+			<rotz>0.000265446</rotz>
+			<roty>0.0693407</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.69427" y="-0.495882" z="13.4098" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.00115293</rotx>
+			<rotz>0.00028254</rotz>
+			<roty>0.0911188</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera002" duration="200" x="-1.67365" y="-0.506891" z="13.3217" />
+		<rotate mesh="Camera002" duration="200">
+			<rotx>-0.000134123</rotx>
+			<rotz>4.61564e-005</rotz>
+			<roty>0.119067</roty>
+		</rotate>
+		<delay time="200"/>
+	</sequence>
+
+	<sequence name = "Camera004_Animation">
+		<start name = "Camera004_Animation">
+		<move x="85.3164" y="31.4775" z="-118.199" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.177603</rotx>
+			<rotz>0.0</rotz>
+			<roty>-0.920097</roty>
+		</rotate>
+		</start>
+		<move mesh="Camera004" duration="200" x="0.385468" y="-1.59595" z="2.7495" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00239848</rotx>
+			<rotz>0.00315044</rotz>
+			<roty>-0.0295393</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.361229" y="-1.58481" z="2.73542" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00233185</rotx>
+			<rotz>0.00325829</rotz>
+			<roty>-0.028777</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.312759" y="-1.56253" z="2.70729" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00224135</rotx>
+			<rotz>0.00333027</rotz>
+			<roty>-0.0278353</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.240067" y="-1.52912" z="2.66507" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00213249</rotx>
+			<rotz>0.00336714</rotz>
+			<roty>-0.0267538</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.143143" y="-1.48456" z="2.60878" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0020104</rotx>
+			<rotz>0.00337058</rotz>
+			<roty>-0.0255686</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.0219727" y="-1.42887" z="2.53844" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0018802</rotx>
+			<rotz>0.00334369</rotz>
+			<roty>-0.0243115</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.123413" y="-1.36203" z="2.45401" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00174593</rotx>
+			<rotz>0.00328959</rotz>
+			<roty>-0.0230092</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.293037" y="-1.28406" z="2.3555" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00161123</rotx>
+			<rotz>0.00321215</rotz>
+			<roty>-0.0216833</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.4869" y="-1.19495" z="2.24295" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00147877</rotx>
+			<rotz>0.0031148</rotz>
+			<roty>-0.0203509</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.704987" y="-1.09469" z="2.11629" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00135063</rotx>
+			<rotz>0.00300104</rotz>
+			<roty>-0.0190235</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.947311" y="-0.983299" z="1.97559" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00122817</rotx>
+			<rotz>0.00287376</rotz>
+			<roty>-0.0177097</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.21385" y="-0.860773" z="1.82081" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00111225</rotx>
+			<rotz>0.00273558</rotz>
+			<roty>-0.0164127</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.50466" y="-0.727104" z="1.65196" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00100316</rotx>
+			<rotz>0.00258821</rotz>
+			<roty>-0.0151323</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.80368" y="-0.591879" z="1.48354" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000901027</rotx>
+			<rotz>0.00243334</rotz>
+			<roty>-0.0142615</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.01575" y="-0.509107" z="1.39471" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00081171</rotx>
+			<rotz>0.00229199</rotz>
+			<roty>-0.0157244</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.19693" y="-0.440267" z="1.3232" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000737994</rotx>
+			<rotz>0.00219279</rotz>
+			<roty>-0.0174587</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.3615" y="-0.376453" z="1.25526" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000677448</rotx>
+			<rotz>0.00213553</rotz>
+			<roty>-0.0190586</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.50948" y="-0.317661" z="1.19086" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000627831</rotx>
+			<rotz>0.00211836</rotz>
+			<roty>-0.0205138</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.64081" y="-0.263897" z="1.13002" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000586727</rotx>
+			<rotz>0.00213984</rotz>
+			<roty>-0.021807</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.75555" y="-0.215154" z="1.07272" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000551582</rotx>
+			<rotz>0.00219856</rotz>
+			<roty>-0.0229128</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.8537" y="-0.171436" z="1.019" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00051978</rotx>
+			<rotz>0.00229317</rotz>
+			<roty>-0.0238003</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.93522" y="-0.132741" z="0.968811" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000488671</rotx>
+			<rotz>0.00242192</rotz>
+			<roty>-0.0244311</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.00013" y="-0.0990715" z="0.92218" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000455777</rotx>
+			<rotz>0.0025828</rotz>
+			<roty>-0.0247614</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.04845" y="-0.070425" z="0.879112" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00041886</rotx>
+			<rotz>0.00277318</rotz>
+			<roty>-0.0247412</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.08014" y="-0.0468025" z="0.839577" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000376236</rotx>
+			<rotz>0.00299019</rotz>
+			<roty>-0.0243153</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.09523" y="-0.028204" z="0.803619" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000326923</rotx>
+			<rotz>0.00323066</rotz>
+			<roty>-0.0234242</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.09372" y="-0.0146313" z="0.771194" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000270889</rotx>
+			<rotz>0.00349163</rotz>
+			<roty>-0.0220028</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.07558" y="-0.00608063" z="0.74234" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000209196</rotx>
+			<rotz>0.00377055</rotz>
+			<roty>-0.019982</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.04085" y="-0.00255394" z="0.717026" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000144174</rotx>
+			<rotz>0.00406606</rotz>
+			<roty>-0.0172867</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.98951" y="-0.00405121" z="0.695274" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>7.95042e-005</rotx>
+			<rotz>0.00437831</rotz>
+			<roty>-0.0138347</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.92155" y="-0.0105753" z="0.677063" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>2.03548e-005</rotx>
+			<rotz>0.00470952</rotz>
+			<roty>-0.00953576</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.83699" y="-0.0221186" z="0.66243" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-2.64036e-005</rotx>
+			<rotz>0.00506417</rotz>
+			<roty>-0.00429036</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.73581" y="-0.0386896" z="0.651321" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-5.17912e-005</rotx>
+			<rotz>0.00544912</rotz>
+			<roty>0.00201217</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.61804" y="-0.0602846" z="0.643784" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-4.39985e-005</rotx>
+			<rotz>0.00587246</rotz>
+			<roty>0.00948491</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.49759" y="-0.0947714" z="0.603348" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>1.31191e-005</rotx>
+			<rotz>0.00658364</rotz>
+			<roty>0.0189012</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.49118" y="-0.197775" z="0.251678" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000199714</rotx>
+			<rotz>0.00955677</rotz>
+			<roty>0.0354349</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.50452" y="-0.296778" z="-0.114151" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.000735432</rotx>
+			<rotz>0.0130413</rotz>
+			<roty>0.0537494</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.50656" y="-0.372363" z="-0.408051" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00180755</rotx>
+			<rotz>0.0163519</rotz>
+			<roty>0.0720898</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.49729" y="-0.424538" z="-0.630005" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00352384</rotx>
+			<rotz>0.0191249</rotz>
+			<roty>0.0896695</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.47673" y="-0.453293" z="-0.780006" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00579392</rotx>
+			<rotz>0.0207788</rotz>
+			<roty>0.104996</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.44487" y="-0.458637" z="-0.858093" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00819948</rotx>
+			<rotz>0.0207089</rotz>
+			<roty>0.116095</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.40171" y="-0.440567" z="-0.86422" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0100311</rotx>
+			<rotz>0.0186631</rotz>
+			<roty>0.121175</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.34725" y="-0.399082" z="-0.798409" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0106084</rotx>
+			<rotz>0.0150357</rotz>
+			<roty>0.119499</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.28148" y="-0.334183" z="-0.66066" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00968232</rotx>
+			<rotz>0.0107325</rotz>
+			<roty>0.111817</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.20442" y="-0.245868" z="-0.450974" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00753393</rotx>
+			<rotz>0.0066739</rotz>
+			<roty>0.0999864</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.11606" y="-0.13414" z="-0.169342" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00470783</rotx>
+			<rotz>0.00339617</rotz>
+			<roty>0.0861267</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.0164" y="0.00100279" z="0.184219" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00168628</rotx>
+			<rotz>0.00100807</rotz>
+			<roty>0.0719258</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.90544" y="0.15956" z="0.609741" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00125936</rotx>
+			<rotz>-0.000634779</rotz>
+			<roty>0.0583979</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.78318" y="0.341531" z="1.10719" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00405327</rotx>
+			<rotz>-0.00175435</rotz>
+			<roty>0.04597</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.64962" y="0.546919" z="1.67657" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00674477</rotx>
+			<rotz>-0.00255805</rotz>
+			<roty>0.0346736</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.50476" y="0.775719" z="2.31791" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00944954</rotx>
+			<rotz>-0.00321369</rotz>
+			<roty>0.0243138</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.34861" y="1.02793" z="3.03119" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0123192</rotx>
+			<rotz>-0.0038579</rotz>
+			<roty>0.0145718</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.16839" y="1.3014" z="3.769" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0155489</rotx>
+			<rotz>-0.00462117</rotz>
+			<roty>0.00560324</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.915735" y="1.56756" z="4.25949" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0189439</rotx>
+			<rotz>-0.00551396</rotz>
+			<roty>0.000106305</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.678232" y="1.80964" z="4.68528" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0218161</rotx>
+			<rotz>-0.00634608</rotz>
+			<roty>-0.0043216</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.470335" y="2.02782" z="5.08992" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0241512</rotx>
+			<rotz>-0.00713671</rotz>
+			<roty>-0.00823931</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.292051" y="2.22212" z="5.47337" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0259992</rotx>
+			<rotz>-0.00791367</rotz>
+			<roty>-0.0116985</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.143373" y="2.39253" z="5.83565" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0274095</rotx>
+			<rotz>-0.00869125</rotz>
+			<roty>-0.0147568</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.0243073" y="2.53905" z="6.17675" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0284303</rotx>
+			<rotz>-0.00947493</rotz>
+			<roty>-0.017474</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.065155" y="2.66169" z="6.4967" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0291097</rotx>
+			<rotz>-0.0102653</rotz>
+			<roty>-0.0199112</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.125002" y="2.76043" z="6.79546" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0294944</rotx>
+			<rotz>-0.0110608</rotz>
+			<roty>-0.0221288</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.155245" y="2.83529" z="7.07306" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0296303</rotx>
+			<rotz>-0.0118602</rotz>
+			<roty>-0.0241871</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.155876" y="2.88624" z="7.32947" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0295613</rotx>
+			<rotz>-0.0126641</rotz>
+			<roty>-0.0261469</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.126898" y="2.91333" z="7.56473" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0293288</rotx>
+			<rotz>-0.0134757</rotz>
+			<roty>-0.0280705</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="0.0683117" y="2.91652" z="7.77882" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0289703</rotx>
+			<rotz>-0.0143017</rotz>
+			<roty>-0.0300239</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.0198822" y="2.89581" z="7.97171" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0285182</rotx>
+			<rotz>-0.015152</rotz>
+			<roty>-0.0320773</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.137688" y="2.85122" z="8.14344" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0279993</rotx>
+			<rotz>-0.0160402</rotz>
+			<roty>-0.0343098</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.285101" y="2.78275" z="8.29401" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0274325</rotx>
+			<rotz>-0.0169823</rotz>
+			<roty>-0.0368122</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.462122" y="2.69038" z="8.4234" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.026827</rotx>
+			<rotz>-0.0179967</rotz>
+			<roty>-0.0396916</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.668753" y="2.57412" z="8.5316" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0261797</rotx>
+			<rotz>-0.0191013</rotz>
+			<roty>-0.0430784</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-0.904991" y="2.43398" z="8.61864" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0254715</rotx>
+			<rotz>-0.020311</rotz>
+			<roty>-0.0471335</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.17085" y="2.26994" z="8.68452" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0246617</rotx>
+			<rotz>-0.0216308</rotz>
+			<roty>-0.0520604</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.47228" y="2.12674" z="9.05165" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0245698</rotx>
+			<rotz>-0.0239104</rotz>
+			<roty>-0.0620161</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-1.80571" y="2.13997" z="10.5876" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0268043</rotx>
+			<rotz>-0.0295131</rotz>
+			<roty>-0.0900071</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.12071" y="2.1412" z="11.937" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0257127</rotx>
+			<rotz>-0.0339811</rotz>
+			<roty>-0.122764</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.41322" y="2.11032" z="12.9477" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0197774</rotx>
+			<rotz>-0.0341142</rotz>
+			<roty>-0.156862</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.68324" y="2.04733" z="13.6201" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0102079</rotx>
+			<rotz>-0.0264159</rotz>
+			<roty>-0.186432</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-2.93079" y="1.95222" z="13.9539" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00186136</rotx>
+			<rotz>-0.0100927</rotz>
+			<roty>-0.202367</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.15585" y="1.82504" z="13.9493" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.000191158</rotx>
+			<rotz>0.00956317</rotz>
+			<roty>-0.198229</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.35843" y="1.66571" z="13.6061" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00538049</rotx>
+			<rotz>0.0242591</rotz>
+			<roty>-0.176482</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.53852" y="1.4743" z="12.9246" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0125076</rotx>
+			<rotz>0.0300108</rotz>
+			<roty>-0.146319</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.69614" y="1.25079" z="11.9045" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0171898</rotx>
+			<rotz>0.0285852</rotz>
+			<roty>-0.116131</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.83127" y="0.995155" z="10.5459" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0181852</rotx>
+			<rotz>0.02354</rotz>
+			<roty>-0.0899622</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-3.94391" y="0.707413" z="8.84886" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.016153</rotx>
+			<rotz>0.0174124</rotz>
+			<roty>-0.068538</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.03407" y="0.387566" z="6.81329" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.012086</rotx>
+			<rotz>0.0113559</rotz>
+			<roty>-0.0511247</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.11317" y="0.042366" z="4.53891" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.0069684</rotx>
+			<rotz>0.00590631</rotz>
+			<roty>-0.0371682</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.27824" y="-0.25531" z="2.98955" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00409728</rotx>
+			<rotz>0.00321894</rotz>
+			<roty>-0.0304902</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.45478" y="-0.520454" z="1.73537" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.00204315</rotx>
+			<rotz>0.00150668</rotz>
+			<roty>-0.0264255</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.61764" y="-0.765007" z="0.5784" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>-0.000150579</rotx>
+			<rotz>0.000105005</rotz>
+			<roty>-0.0233204</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.76679" y="-0.989029" z="-0.481339" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00159591</rotx>
+			<rotz>-0.00105857</rotz>
+			<roty>-0.0209459</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.90228" y="-1.19249" z="-1.44385" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00321362</rotx>
+			<rotz>-0.002036</rotz>
+			<roty>-0.0191423</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.02409" y="-1.3754" z="-2.30916" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00471702</rotx>
+			<rotz>-0.00286337</rotz>
+			<roty>-0.0177963</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.13219" y="-1.53777" z="-3.07721" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00611537</rotx>
+			<rotz>-0.0035648</rotz>
+			<roty>-0.0168265</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.22662" y="-1.67957" z="-3.74806" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00741294</rotx>
+			<rotz>-0.00415553</rotz>
+			<roty>-0.0161737</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.30737" y="-1.80083" z="-4.32169" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00860735</rotx>
+			<rotz>-0.00464359</rotz>
+			<roty>-0.0157934</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.37441" y="-1.90153" z="-4.79807" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.00969031</rotx>
+			<rotz>-0.00503162</rotz>
+			<roty>-0.0156522</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.4278" y="-1.98169" z="-5.17723" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0106462</rotx>
+			<rotz>-0.00531775</rotz>
+			<roty>-0.0157223</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.46748" y="-2.04129" z="-5.4592" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0114538</rotx>
+			<rotz>-0.00549742</rotz>
+			<roty>-0.0159792</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-5.49348" y="-2.08033" z="-5.64394" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0120844</rotx>
+			<rotz>-0.00556386</rotz>
+			<roty>-0.0163993</roty>
+		</rotate>
+		<delay time="200"/>
+		<move mesh="Camera004" duration="200" x="-4.95506" y="-1.88871" z="-5.1571" />
+		<rotate mesh="Camera004" duration="200">
+			<rotx>0.0112458</rotx>
+			<rotz>-0.00495546</rotz>
+			<roty>-0.0152347</roty>
+		</rotate>
+		<delay time="200"/>
+	</sequence>
+
+</sequences>

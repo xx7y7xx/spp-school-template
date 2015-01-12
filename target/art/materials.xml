@@ -1,0 +1,24 @@
+<library>
+  <textures>
+    <texture name="sky.jpg">
+      <file>/art/textures/sky.jpg</file>
+    </texture>
+    <texture name="waiwei.jpg">
+      <file>/art/textures/waiwei.jpg</file>
+    </texture>
+    <texture name="ecg2305.jpg">
+      <file>/art/textures/ecg2305.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="m0">
+      <texture>sky.jpg</texture>
+    </material>
+    <material name="m2">
+      <texture>waiwei.jpg</texture>
+    </material>
+    <material name="m1">
+      <texture>ecg2305.jpg</texture>
+    </material>
+  </materials>
+</library>

@@ -1,0 +1,5 @@
+<materials>
+	<m0 type = "Standardmaterial" twoSided = "false"/>
+	<m1 type = "Standardmaterial" twoSided = "false"/>
+	<m2 type = "Standardmaterial" twoSided = "false"/>
+</materials>

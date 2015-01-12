@@ -1,0 +1,19 @@
+﻿<world>
+	<buildInfo>
+		<meshobj name="bud2#1" cname="实验楼" />
+		<meshobj name="bud22#1" cname="礼堂" />
+		<meshobj name="bud21#1" cname="西门" />
+		<meshobj name="bud20#1" cname="艺术中心" />
+		<meshobj name="bud7#1" cname="行政楼" />
+		<meshobj name="bud19#1" cname="体育馆" />
+		<meshobj name="bud17#1" cname="新初中楼" />
+		<meshobj name="bud1#1" cname="高中部" />
+		<meshobj name="bud15#1" cname="甲楼" />
+		<meshobj name="bud14#1" cname="后勤楼" />
+		<meshobj name="bud13#1" cname="乙楼" />
+		<meshobj name="bud9#1" cname="初中楼" />
+		<meshobj name="bud3#1" cname="图书馆楼" />
+		<meshobj name="bud16#1" cname="东门" />
+		<meshobj name="bud23#1" cname="校史馆" />
+	</buildInfo>
+</world>

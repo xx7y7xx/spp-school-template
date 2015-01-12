@@ -1,0 +1,35 @@
+<maxposition>
+	<top_left>
+		<point3d>
+			<xpos>-221.082</xpos>
+			<ypos>0.0</ypos>
+			<zpos>209.4</zpos>
+		</point3d>
+		<point2d>
+			<xpos>206</xpos>
+			<ypos>65</ypos>
+		</point2d>
+	</top_left>
+	<right_bottom>
+		<point3d>
+			<xpos>21.5212</xpos>
+			<ypos>0.0</ypos>
+			<zpos>-142.718</zpos>
+		</point3d>
+		<point2d>
+			<xpos>745</xpos>
+			<ypos>849</ypos>
+		</point2d>
+	</right_bottom>
+	<roleInitialize>
+		<point3d>
+			<xpos>45.2622</xpos>
+			<ypos>0.0</ypos>
+			<zpos>3.1499</zpos>
+		</point3d>
+		<point2d>
+			<xpos>798</xpos>
+			<ypos>523</ypos>
+		</point2d>
+	</roleInitialize>
+</maxposition>

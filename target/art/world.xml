@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<world>
+  <library>/art/shaderlib.xml</library>
+  <library>/art/factorylib.xml</library>
+  <library>/art/materials.xml</library>
+  <start name="Camera">
+    <sector>Scene</sector>
+    <position x="8.6592" y="5.1716" z="-4.595" />
+    <up x="-0.3307" y="0.8953" z="0.2984" />
+    <forward x="-0.6549" y="-0.4452" z="0.6107" />
+  </start>
+  <sector name="Scene">
+    <ambient blue="0.54" green="0.54" red="0.54" />
+    <cullerp plugin="crystalspace.culling.frustvis" />
+    <meshobj name="sky1#1">
+      <plugin>crystalspace.mesh.loader.genmesh</plugin>
+      <params>
+        <factory>sky1</factory>
+      </params>
+      <move>
+        <v x="-88.3687744140625" y="-34.38067626953125" z="9.9906005859375" />
+        <matrix>
+          <scale x="1" y="1" z="1" />
+          <rotx>0</rotx>
+          <roty>0</roty>
+          <rotz>0</rotz>
+        </matrix>
+      </move>
+      <minrenderdist value="0.01" />
+      <maxrenderdist value="99999" />
+    </meshobj>
+    <meshobj name="gnd11#1">
+      <plugin>crystalspace.mesh.loader.genmesh</plugin>
+      <params>
+        <factory>gnd11</factory>
+      </params>
+      <move>
+        <v x="-50.276123046875" y="0" z="95.5880126953125" />
+        <matrix>
+          <scale x="1" y="1" z="1" />
+          <rotx>0</rotx>
+          <roty>0</roty>
+          <rotz>0</rotz>
+        </matrix>
+      </move>
+      <minrenderdist value="0.01" />
+      <maxrenderdist value="99999" />
+    </meshobj>
+    <meshobj name="prop8#1">
+      <plugin>crystalspace.mesh.loader.genmesh</plugin>
+      <params>
+        <factory>prop8</factory>
+      </params>
+      <move>
+        <v x="-185.96807861328125" y="7.811706066131592" z="87.72529602050781" />
+        <matrix>
+          <scale x="1" y="1" z="1" />
+          <rotx>0</rotx>
+          <roty>0</roty>
+          <rotz>0</rotz>
+        </matrix>
+      </move>
+      <minrenderdist value="0.01" />
+      <maxrenderdist value="99999" />
+    </meshobj>
+  </sector>
+</world>

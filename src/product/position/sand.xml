@@ -1,0 +1,84 @@
+﻿<application type="school">
+	<sandTable>
+			<label id="行政楼">
+			<uiPosition>[-8.959332466125488,17.000015258789062,33.132835388183594]</uiPosition>
+			<playerPosition>[-12.299516677856445,0.00031107664108276367,13.340335845947266]</playerPosition>
+			<playerRotation>[0,-3.1281164390289984,0]</playerRotation>
+		</label>
+		<label id="礼堂">
+			<uiPosition>[-69.50051879882812,16.569028854370117,-3.2495675086975098]</uiPosition>
+			<playerPosition>[-23.04830551147461,0.00031107664108276367,-0.6205911636352539]</playerPosition>
+			<playerRotation>[0,-1.5036946308450219,0]</playerRotation>
+		</label>
+		<label id="图书馆楼">
+			<uiPosition>[-13.425235748291016,15.821029663085938,-48.098636627197266]</uiPosition>
+			<playerPosition>[-8.641693115234375,0.0003108382225036621,-16.220745086669922]</playerPosition>
+			<playerRotation>[0,-0.21616762369778963,0]</playerRotation>
+		</label>
+		<label id="实验楼">
+			<uiPosition>[-53.02727508544922,15.820993423461914,-49.343650817871094]</uiPosition>
+			<playerPosition>[-49.34197998046875,0.00031107664108276367,-27.483200073242188]</playerPosition>
+			<playerRotation>[0,-0.08135259773355785,0]</playerRotation>
+		</label>
+		<label id="艺术中心">
+			<uiPosition>[-41.96000671386719,15.213476181030273,71.63771057128906]</uiPosition>
+			<playerPosition>[-53.87334060668945,0.12955410778522491,55.52130889892578]</playerPosition>
+			<playerRotation>[0,1.6140151023864746,0]</playerRotation>
+		</label>
+		<label id="体育馆">
+			<uiPosition>[-88.05410766601562,16.32130241394043,84.4113540649414]</uiPosition>
+			<playerPosition>[-57.63689422607422,0.18211409449577332,80.63129425048828]</playerPosition>
+			<playerRotation>[0,-1.4701858758926392,0]</playerRotation>
+		</label>
+		<label id="甲楼">
+			<uiPosition>[-84.92385864257812,9.786828994750977,23.669490814208984]</uiPosition>
+			<playerPosition>[-80.20982360839844,0.00031107664108276367,14.744281768798828]</playerPosition>
+			<playerRotation>[0,-3.0508362984911797,0]</playerRotation>
+		</label>
+		<label id="乙楼">
+			<uiPosition>[-80.59613037109375,9.082016944885254,49.762481689453125]</uiPosition>
+			<playerPosition>[-82.32500457763672,0.00031107664108276367,40.188377380371094]</playerPosition>
+			<playerRotation>[0,-2.992450829972837,0]</playerRotation>
+		</label>
+		<label id="新初中楼">
+			<uiPosition>[-144.72483825683594,9.500041961669922,127.69038391113281]</uiPosition>
+			<playerPosition>[-155.63861083984375,0.18774783611297607,103.2403564453125]</playerPosition>
+			<playerRotation>[0,-3.121262047209796,0]</playerRotation>
+		</label>
+		<label id="初中楼">
+			<uiPosition>[-163.83639526367188,5.733081817626953,159.9869384765625]</uiPosition>
+			<playerPosition>[-165.20977783203125,0.1930478811264038,144.48040771484375]</playerPosition>
+			<playerRotation>[0,-3.120420710919749,0]</playerRotation>
+		</label>
+		<label id="校史馆">
+			<uiPosition>[6.33206033706665,10.325645446777344,147.739013671875]</uiPosition>
+			<playerPosition>[51.44356918334961,-0.020000115036964417,154.17031860351562]</playerPosition>
+			<playerRotation>[0,-1.461999773979187,0]</playerRotation>
+		</label>
+		<label id="高中部">
+			<uiPosition>[-20.35088348388672,13.5,-116.89427185058594]</uiPosition>
+			<playerPosition>[-33.0062255859375,0.02000027894973755,-100.20255279541016]</playerPosition>
+			<playerRotation>[0,0.07772601395845413,0]</playerRotation>
+		</label>
+		<label id="后勤楼">
+			<uiPosition>[-10.922590255737305,9.12518310546875,66.29304504394531]</uiPosition>
+			<playerPosition>[-21.460506439208984,0.0799998939037323,85.35855102539062]</playerPosition>
+			<playerRotation>[0,0.2570936679840088,0]</playerRotation>
+		</label>
+		<label id="西门">
+			<uiPosition>[-205.48031616210938,3.221994400024414,154.20057678222656]</uiPosition>
+			<playerPosition>[-197.71055603027344,-1.012313961982727,145.62596130371094]</playerPosition>
+			<playerRotation>[0,-1.578152382236512,0]</playerRotation>
+		</label>
+		<label id="操场">
+			<uiPosition>[-121.96749114990234,0.00002323184162378311,-65.25234985351562]</uiPosition>
+			<playerPosition>[-78.04546356201172,0.01999986171722412,-29.50609016418457]</playerPosition>
+			<playerRotation>[0,-1.4458123445510864,0]</playerRotation>
+		</label>
+		<label id="东门">
+			<uiPosition>[30.1073055267334,71.01982116699219,-0.4252796173095703]</uiPosition>
+			<playerPosition>[45.45380401611328,2.682209014892578e-7,6.106569766998291]</playerPosition>
+			<playerRotation>[0,-1.4811850786209106,0]</playerRotation>
+		</label>
+	</sandTable>
+</application>

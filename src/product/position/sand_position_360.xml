@@ -1,0 +1,10 @@
+<application type="school">
+	<sandTable_360>
+		<label id="新图书馆">
+			<uiPosition>[-118.12584686279297,30.451343536376953,-272.5701599121094]</uiPosition>
+		</label>
+		<label id="校园全景">
+			<uiPosition>[125.37086486816406,0.20002013444900513,-222.4733428955078]</uiPosition>
+		</label>
+	</sandTable_360>
+</application>
