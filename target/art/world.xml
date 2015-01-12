@@ -148,6 +148,23 @@
       <minrenderdist value="0.01" />
       <maxrenderdist value="99999" />
     </meshobj>
+    <meshobj name="gnd111#111">
+      <plugin>crystalspace.mesh.loader.genmesh</plugin>
+      <params>
+        <factory>gnd111</factory>
+      </params>
+      <move>
+        <v x="-91.21903991699219" y="-1.835663080215454" z="28.756437301635742" />
+        <matrix>
+          <scale x="1" y="1" z="1" />
+          <rotx>0</rotx>
+          <roty>0</roty>
+          <rotz>0</rotz>
+        </matrix>
+      </move>
+      <minrenderdist value="0.01" />
+      <maxrenderdist value="99999" />
+    </meshobj>
   </sector>
 	<sequences>
 		<sequence name="spp_bird1">

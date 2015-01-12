@@ -9,6 +9,12 @@
     <texture name="ecg2305.jpg">
       <file>/art/textures/ecg2305.jpg</file>
     </texture>
+    <texture name="_cp5_2.png">
+      <file>/art/textures/_cp5_2.png</file>
+      <alpha>
+        <binary />
+      </alpha>
+    </texture>
   	<texture name="star2.png">
 	  <file>/art/models/star/textures/star2.png</file>
 	  <alpha><binary/></alpha>
@@ -27,6 +33,11 @@
     </material>
     <material name="m1">
       <texture>ecg2305.jpg</texture>
+    </material>
+    <material name="m3">
+      <texture>_cp5_2.png</texture>
+      <shader type="diffuse">*null</shader>
+      <shader type="ambient">ambient</shader>
     </material>
   	<material name="Material_M2_star">
 	  <texture>star2.png</texture>

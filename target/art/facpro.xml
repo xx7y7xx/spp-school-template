@@ -1,4 +1,4 @@
-<root total_tris="647" total_verts="658">
+<root total_tris="679" total_verts="683">
   <meshfactory name="sky1" fromfile="D:\p\spp-school-template\src\art\scene\scene.x" meshindex="0" numfaces="480" numvertices="406">
     <material name="m0">
       <diffusetexture>/art/textures/sky.jpg</diffusetexture>
@@ -12,6 +12,11 @@
   <meshfactory name="prop8" fromfile="D:\p\spp-school-template\src\art\scene\scene.x" meshindex="2" numfaces="84" numvertices="177">
     <material name="m1">
       <diffusetexture>/art/textures/ecg2305.jpg</diffusetexture>
+    </material>
+  </meshfactory>
+  <meshfactory name="gnd111" fromfile="D:\p\spp-school-template\src\art\scene\scene.x" meshindex="3" numfaces="32" numvertices="25">
+    <material name="m3">
+      <diffusetexture>/art/textures/_cp5_2.png</diffusetexture>
     </material>
   </meshfactory>
 </root>

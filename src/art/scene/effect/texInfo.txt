@@ -1,2 +1,3 @@
 D:\p\spp-school-template\src\art\scene\diffuse\waiwei.jpg
 D:\p\spp-school-template\src\art\scene\diffuse\ecg2305.jpg
+D:\p\spp-school-template\src\art\scene\diffuse\_cp5_2.png

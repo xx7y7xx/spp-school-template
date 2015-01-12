@@ -9,4 +9,5 @@
   <library>/art/factories/sky1.xml</library>
   <library>/art/factories/gnd11.xml</library>
   <library>/art/factories/prop8.xml</library>
+  <library>/art/factories/gnd111.xml</library>
 </library>

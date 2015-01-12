@@ -1,3 +1,4 @@
 target/shadercache
 target/CEGUI.log
 publish/*
+target/blog.txt
