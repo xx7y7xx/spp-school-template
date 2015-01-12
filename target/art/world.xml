@@ -12,7 +12,92 @@
   <sector name="Scene">
     <ambient blue="0.54" green="0.54" red="0.54" />
     <cullerp plugin="crystalspace.culling.frustvis" />
-    <meshobj name="sky1#1">
+    
+		<meshobj name="mesh_camera">
+			<plugin>crystalspace.mesh.loader.genmesh</plugin>
+			<params>
+				<factory>genCube</factory>
+			</params>
+			<move>
+				<v x="125.6136398318164" y="-0.00004374980926513672" z="-321.6300354003906"/>
+			</move>
+		</meshobj>
+		
+		<meshobj name="man">
+			<priority>portal</priority>
+			<plugin>crystalspace.mesh.loader.sprite.cal3d</plugin>
+			<params>
+				<factory>man</factory>
+			</params>
+			<zuse/>
+			<move>
+				<v x="124.90711212158203" y="-10000" z="-319.63427734375"/>
+			</move>
+		</meshobj>
+		
+		<meshobj name="woman">
+			<priority>portal</priority>
+			<plugin>crystalspace.mesh.loader.sprite.cal3d</plugin>
+			<params>
+				<factory>woman</factory>
+			</params>
+			<zuse/>
+			<move>
+				<v x="124.90711212158203" y="-10000" z="-319.63427734375"/>
+			</move>
+		</meshobj>
+		
+		<meshobj name="music_bg">
+			<plugin>crystalspace.mesh.loader.genmesh</plugin>
+			<params>
+				<factory>genCube</factory>
+			</params>
+			<move>
+				<v x="0" y="-10000" z="0"/>
+			</move>
+		</meshobj>
+		
+		<meshobj name="star_mesh_Plane01_10.xml">
+			<plugin>crystalspace.mesh.loader.genmesh</plugin>
+			<params>
+				<factory>star_mesh_Plane01_10</factory>
+			</params>
+			<zuse/>
+			<move>
+				<v x="0" y="-10000" z="0"/>
+			</move>
+			<trimesh>
+				<id>colldet</id>
+			</trimesh>
+		</meshobj>
+		
+		<meshobj name="star">
+			<plugin>crystalspace.mesh.loader.genmesh</plugin>
+			<params>
+				<factory>star_mesh_Plane02_31</factory>
+			</params>
+			<zuse/>
+			<move>
+				<v x="0" y="-10000" z="0"/>
+			</move>
+			<trimesh>
+				<id>colldet</id>
+			</trimesh>
+		</meshobj>
+		
+		<meshobj name="spp_bird1">
+			<plugin>crystalspace.mesh.loader.sprite.3d</plugin>
+			<params>
+				<factory>spp_bird1</factory>
+				<lighting>yes</lighting>
+				<action>uvanim</action>
+			</params>
+			<move>
+				<v x="0" y="100" z="-300" />
+			</move>
+		</meshobj>
+		
+	<meshobj name="sky1#1">
       <plugin>crystalspace.mesh.loader.genmesh</plugin>
       <params>
         <factory>sky1</factory>
@@ -64,4 +149,9 @@
       <maxrenderdist value="99999" />
     </meshobj>
   </sector>
+	<sequences>
+		<sequence name="spp_bird1">
+			<move mesh="spp_bird1" duration="1000000" x="0" y="0" z="5000" />
+		</sequence>
+	</sequences>
 </world>

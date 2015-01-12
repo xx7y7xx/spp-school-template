@@ -1,0 +1,218 @@
+<SEARCH_DATA>
+	<n__n0>
+				<chinese>
+					<name>图书馆楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的图书馆楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>tushuguan</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n0>
+	<n__n1>
+				<chinese>
+					<name>实验楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的实验楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>shiyanlou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n1>
+	<n__n2>
+				<chinese>
+					<name>校史馆</name>
+					<intro>//n//n    您好，这里是北京市八一中学的校史馆。
+					</intro>
+				</chinese>
+				<english>
+					<name>xiaoshiguan</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n2>
+	<n__n3>
+				<chinese>
+					<name>礼堂</name>
+					<intro>//n//n    您好，这里是北京市八一中学的礼堂。
+					</intro>
+				</chinese>
+				<english>
+					<name>litang</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n3>
+	<n__n4>
+				<chinese>
+					<name>行政楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的行政楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>xingzhenglou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n4>
+	<n__n5>
+				<chinese>
+					<name>初中楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的初中楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>chuzhonglou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n5>
+	<n__n6>
+				<chinese>
+					<name>新初中楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的新初中楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>xinchuzhonglou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n6>
+	<n__n7>
+				<chinese>
+					<name>高中部</name>
+					<intro>//n//n    您好，这里是北京市八一中学的高中部。
+					</intro>
+				</chinese>
+				<english>
+					<name>gaozhognbu</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n7>
+	<n__n8>
+				<chinese>
+					<name>体育馆</name>
+					<intro>//n//n    您好，这里是北京市八一中学的体育馆。
+					</intro>
+				</chinese>
+				<english>
+					<name>艺术中心</name>
+					<intro>//n//n    您好，这里是北京市八一中学的艺术中心。
+					</intro>
+				</english>
+	</n__n8>
+	<n__n9>
+				<chinese>
+					<name>操场</name>
+					<intro>//n//n    您好，这里是北京市八一中学的操场。
+					</intro>
+				</chinese>
+				<english>
+					<name>caochang</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n9>
+	<n__n10>
+				<chinese>
+					<name>综合楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的综合楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>zonghelou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n10>
+	<n__n11>
+				<chinese>
+					<name>艺术中心</name>
+					<intro>//n//n    您好，这里是北京市八一中学的艺术中心。
+					</intro>
+				</chinese>
+				<english>
+					<name>yishuzhongxin</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n11>
+	<n__n12>
+				<chinese>
+					<name>乙楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的乙楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>yilou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n12>
+	<n__n13>
+				<chinese>
+					<name>甲楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的甲楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>jialou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n13>
+	<n__n14>
+				<chinese>
+					<name>后勤楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的后勤楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>houqinlou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n14>
+	<n__n15>
+				<chinese>
+					<name>综合楼</name>
+					<intro>//n//n    您好，这里是北京市八一中学的综合楼。
+					</intro>
+				</chinese>
+				<english>
+					<name>zonghelou</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n15>
+	<n__n16>
+				<chinese>
+					<name>东门</name>
+					<intro>//n//n    您好，这里是北京市八一中学的东门。
+					</intro>
+				</chinese>
+				<english>
+					<name>dongmen</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n16>
+	<n__n17>
+				<chinese>
+					<name>西门</name>
+					<intro>//n//n    您好，这里是北京市八一中学的西门。
+					</intro>
+				</chinese>
+				<english>
+					<name>ximen</name>
+					<intro>//n
+					</intro>
+				</english>
+	</n__n17>
+</SEARCH_DATA>

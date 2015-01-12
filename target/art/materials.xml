@@ -9,7 +9,15 @@
     <texture name="ecg2305.jpg">
       <file>/art/textures/ecg2305.jpg</file>
     </texture>
-  </textures>
+  	<texture name="star2.png">
+	  <file>/art/models/star/textures/star2.png</file>
+	  <alpha><binary/></alpha>
+	</texture>
+	<texture name="star1.png">
+	  <file>/art/models/star/textures/star1.png</file>
+	  <alpha><binary/></alpha>
+	</texture>
+</textures>
   <materials>
     <material name="m0">
       <texture>sky.jpg</texture>
@@ -20,5 +28,13 @@
     <material name="m1">
       <texture>ecg2305.jpg</texture>
     </material>
-  </materials>
+  	<material name="Material_M2_star">
+	  <texture>star2.png</texture>
+	  <shader type="ambient">ambient</shader>
+	</material>
+	<material name="Material_M1_star">
+	  <texture>star1.png</texture>
+	  <shader type="ambient">ambient</shader>
+	</material> 
+</materials> 
 </library>

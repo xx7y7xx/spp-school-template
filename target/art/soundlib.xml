@@ -1,0 +1,6 @@
+<library>
+	<sounds>
+		<sound name="background">
+			<file>/art/music/background.ogg</file>
+		</sound>
+	</sounds></library>

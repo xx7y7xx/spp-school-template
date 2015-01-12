@@ -1,2 +1,3 @@
 target/shadercache
 target/CEGUI.log
+publish/*
