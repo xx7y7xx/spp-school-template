@@ -39,7 +39,8 @@
                         "name": "shiyanlou"
                     }, 
                     "image": "/ui/data/image/bud2#1.jpg", 
-                    "meshobj": "bud2#1"
+                    /*"meshobj": "bud2#1"*/
+                    "meshobj": "prop8#1"
                 }, 
                 "i32": {
                     "chinese": {
