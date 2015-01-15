@@ -1265,6 +1265,12 @@
 						<Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
 						<Property Name="UnifiedAreaRect" Value="{{0.437435,0},{0.0940954,0},{0.944565,0},{0.929605,0}}" />
 					</Window>
+						<Window Type="General/Button" Name="building/window/open" >
+							<Property Name="text_theme" Value="360全景" />
+							<Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+							<Property Name="UnifiedAreaRect" Value="{{0.827599,0},{0.918652,0},{0.975394,0},{0.99558,0}}" />
+							<Property Name="NormalTextColour" Value="FFFFFFFF" />
+						</Window>
 				</Window>
 			</Window>
 			<Window Type="General/DefaultWindowBackground" Name="zhucaidan/tishikuang_Window/erji" >

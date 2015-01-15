@@ -3198,6 +3198,16 @@ try {
 			about_school_goto_url : function (){
 				System.Open(URL.home_url);
 			},
+            building_info_goto_url : function (){
+                for (var index in JSON_SCHOOL.ui.BULID_DATA)
+                {
+                    if(player.isMeshName == JSON_SCHOOL.ui.BULID_DATA[index].meshobj){
+                        break;
+                    }
+                }
+				//System.Open(JSON_SCHOOL.ui.BULID_DATA[index].pano_website);
+                System.Open(JSON_SCHOOL.ui.BULID_DATA["i31"].pano_website);
+			},
 			/* 学校视频集中的“更多信息”链接*/
 			about_video_goto_url : function (){
 				System.Open(URL.video_url);
@@ -6365,6 +6375,13 @@ try {
 				property : {},
 				event : {
 					"MouseClick":"about_school_goto_url"
+				},
+				subscribe :{}
+			},
+			"building/window/open" : {
+				property : {},
+				event : {
+					"MouseClick":"building_info_goto_url"
 				},
 				subscribe :{}
 			},

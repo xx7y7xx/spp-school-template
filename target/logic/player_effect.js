@@ -1261,6 +1261,13 @@ try{
 				name :  "effect.camera.change.player0" , 
 				player : player 
 			});
+            
+							Event.Send({
+								name : "ui.build.information",
+								player : player,
+								id : "i31"
+							});
+            
 			//清除旋转 
 			player.isRotation = false ; 
 			player.isMouseRotation = false ;

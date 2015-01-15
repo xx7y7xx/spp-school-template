@@ -32,7 +32,8 @@ try {
 			},
 			
 			runSpeed: {
-				'movement' : 3.2, 
+				/*'movement' : 3.2, */
+                'movement' : 32, 
 				'running' : 1, 
 				'rotation': 1, 
 				'jumping' : 1
